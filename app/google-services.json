@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "697223300018",
+    "firebase_url": "https://queen-c57e0.firebaseio.com",
+    "project_id": "queen-c57e0",
+    "storage_bucket": "queen-c57e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697223300018:android:6bc2a1a2adfd5d1c",
+        "android_client_info": {
+          "package_name": "com.psli.queen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697223300018-3qs6k09pm4bnabp4m57jtembst15ll8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.psli.queen",
+            "certificate_hash": "5f0313e1d6c8f42c86b021fa2de4ba76c28a57bc"
+          }
+        },
+        {
+          "client_id": "697223300018-oaakvcj1ici995bv4aa72g1lv83jq78h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxDUfY16z5Lw9DiwrYUryo3k6Kci_mp4s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697223300018-oaakvcj1ici995bv4aa72g1lv83jq78h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
